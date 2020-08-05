@@ -1,0 +1,4 @@
+git status ：查看
+git add . ：添加文件
+git commit -m "注释信息" ：提交到本地仓库
+git push ：提交代码到远程git仓库
