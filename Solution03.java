@@ -15,7 +15,7 @@
 */
 
 import java.util.*;
-public class Solution02{
+public class Solution03{
 	public ArrayList<Integer> printListFromTailToHead(ListNode listNode){
 		Stack<Integer> s =new Stack<Integer>();
 		if (listNode = null){
